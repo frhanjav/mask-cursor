@@ -1,10 +1,14 @@
-To install the required packages:
+## [Live Demo](https://mask-cursor.leverage.blog)
 
-```bash
-npm i
-```
+olivier larose' mask cursor effect [mask-cursor-effefct](https://blog.olivierlarose.com/tutorials/mask-cursor-effect)
 
-To run the development server:
+insipired by minh pham: [minhpham.design](https://minhpham.design/)
+
+similar to svg mask effect by aceternity ui [svg-mask-effect]https://ui.aceternity.com/components/svg-mask-effect
+
+## To run locally
+
+clone this repo -> then run:
 
 ```bash
 npm run dev
@@ -16,14 +20,8 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Stack
 
-uses: sass and motion (prev framer-motion)
-
-```bash
-npm i sass
-```
-
-```bash
-npm i motion
-```
+- Next.js
+- Motion (prev Framer Motion)
+- Sass

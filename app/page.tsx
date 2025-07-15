@@ -27,15 +27,13 @@ export default function Home() {
             setIsHovered(false);
           }}
         >
-          A visual designer - with skills that haven't been replaced by A.I (yet) - making good shit
-          only if the paycheck is equally good.
+          Web3 is the real game-changer, handing power back to users with decentralized networks that make Big Tech cry.
         </p>
       </motion.div>
 
       <div className={styles.body}>
         <p>
-          I'm a <span>selectively skilled</span> product designer with strong focus on producing
-          high quality & impactful digital experience.
+          AI is a <span>digital sorcerer</span>, weaving wonders from code—summoning art from nothing and reshaping imagination into reality.
         </p>
       </div>
     </main>
