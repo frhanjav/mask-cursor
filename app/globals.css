@@ -1,12 +1,13 @@
 @font-face {
-    font-family: 'Pirated';
+    font-family: "Pirated";
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
     src: url('../public/font/AVGARDD_2.woff') format('woff');
 }
 
 body {
     background-color: black;
     margin: 0px;
-    font-family: 'Pirated';
+    font-family: "Pirated", "Arial Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
